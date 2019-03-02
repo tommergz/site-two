@@ -1,1 +1,1 @@
-[https://tommergz.github.io/site-two](https://tommergz.github.io/site-two)
+[https://tommergz.github.io/site-two/index.html](https://tommergz.github.io/site-two/index.html)
